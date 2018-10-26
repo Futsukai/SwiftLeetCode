@@ -17,3 +17,8 @@ var str = "abcabcbb"
 var testSrt = Solution().lengthOfLongestSubstring(str)
 print(testSrt)
 
+var s = "loveleetcode"
+var h = Solution().shortestToChar(s, "e")
+print(h)
+
+

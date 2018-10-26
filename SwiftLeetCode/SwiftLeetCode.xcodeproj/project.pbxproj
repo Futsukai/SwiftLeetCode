@@ -10,6 +10,8 @@
 		721DDE2B217F870600F64772 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 721DDE2A217F870600F64772 /* main.swift */; };
 		721DDE32217F873E00F64772 /* 1.TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 721DDE31217F873E00F64772 /* 1.TwoSum.swift */; };
 		721DDE34217F880100F64772 /* 3.lengthOfLongestSubstring.swift in Sources */ = {isa = PBXBuildFile; fileRef = 721DDE33217F880100F64772 /* 3.lengthOfLongestSubstring.swift */; };
+		721DDE4D218331FF00F64772 /* 784.letterCasePermutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 721DDE4C218331FF00F64772 /* 784.letterCasePermutation.swift */; };
+		721DDE4F21833BEB00F64772 /* 821.shortestToChar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 721DDE4E21833BEB00F64772 /* 821.shortestToChar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +31,8 @@
 		721DDE2A217F870600F64772 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		721DDE31217F873E00F64772 /* 1.TwoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1.TwoSum.swift; sourceTree = "<group>"; };
 		721DDE33217F880100F64772 /* 3.lengthOfLongestSubstring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 3.lengthOfLongestSubstring.swift; sourceTree = "<group>"; };
+		721DDE4C218331FF00F64772 /* 784.letterCasePermutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 784.letterCasePermutation.swift; sourceTree = "<group>"; };
+		721DDE4E21833BEB00F64772 /* 821.shortestToChar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 821.shortestToChar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +66,8 @@
 			isa = PBXGroup;
 			children = (
 				721DDE2A217F870600F64772 /* main.swift */,
+				721DDE4E21833BEB00F64772 /* 821.shortestToChar.swift */,
+				721DDE4C218331FF00F64772 /* 784.letterCasePermutation.swift */,
 				721DDE31217F873E00F64772 /* 1.TwoSum.swift */,
 				721DDE33217F880100F64772 /* 3.lengthOfLongestSubstring.swift */,
 			);
@@ -125,9 +131,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				721DDE4F21833BEB00F64772 /* 821.shortestToChar.swift in Sources */,
 				721DDE34217F880100F64772 /* 3.lengthOfLongestSubstring.swift in Sources */,
 				721DDE2B217F870600F64772 /* main.swift in Sources */,
 				721DDE32217F873E00F64772 /* 1.TwoSum.swift in Sources */,
+				721DDE4D218331FF00F64772 /* 784.letterCasePermutation.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
